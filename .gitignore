@@ -1,0 +1,11 @@
+# Büyük Veri Havuzları ve Paket Kayıtları
+*.pcap
+*.csv
+
+# Python Önbellek Dosyaları
+__pycache__/
+*.pyc
+
+# Sanal Ortam (Eğer kullanıyorsan)
+.venv/
+venv/
