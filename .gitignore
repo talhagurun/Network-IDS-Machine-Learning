@@ -9,3 +9,4 @@ __pycache__/
 # Sanal Ortam (Eğer kullanıyorsan)
 .venv/
 venv/
+*.pdf
