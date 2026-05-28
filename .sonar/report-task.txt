@@ -1,0 +1,7 @@
+organization=talhagurun
+projectKey=talhagurun_Network-IDS-Machine-Learning
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.88170
+dashboardUrl=https://sonarcloud.io/dashboard?id=talhagurun_Network-IDS-Machine-Learning
+ceTaskId=AZ5RuBktbbkw3Bp6e-Nc
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AZ5RuBktbbkw3Bp6e-Nc

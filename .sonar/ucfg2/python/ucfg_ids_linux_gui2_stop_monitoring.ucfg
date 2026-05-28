@@ -1,0 +1,124 @@
+
+*ids_linux_gui2.CyberIDSApp.stop_monitoring)
+C:\labs\src\ids_linux_gui2.py„ „("2*ï
+
+2
+… …("l
+j
+
+… …("/
+ids_linux_gui2.CyberIDSApp"
+is_monitoring"__id*%
+
+__unknown_file (	
+
+Falsee
+c
+
+† †(
+%1"__id*I
+
+__unknown_file (-*+
+ids_linux_gui2.CyberIDSApp"
+	start_btnt
+r
+
+† †(0
+%2"%customtkinter.CTk.start_btn.configure*"
+
+__unknown_file (
+
+%12
+state
+
+normald
+b
+
+‡ ‡(
+%3"__id*H
+
+__unknown_file (,**
+ids_linux_gui2.CyberIDSApp"
+
+stop_btnu
+s
+
+‡ ‡(1
+%4"$customtkinter.CTk.stop_btn.configure*"
+
+__unknown_file (
+
+%32
+state
+
+disabledd
+b
+
+ˆ ˆ(
+%5"__id*H
+
+__unknown_file (,**
+ids_linux_gui2.CyberIDSApp"
+
+ip_entrys
+q
+
+ˆ ˆ(/
+%6"$customtkinter.CTk.ip_entry.configure*"
+
+__unknown_file (
+
+%52
+state
+
+normalg
+e
+
+‰ ‰(
+%7"__id*K
+
+__unknown_file (/*-
+ids_linux_gui2.CyberIDSApp"
+log_textboxÅ
+Â
+
+‰ ‰(H
+%8"$customtkinter.CTk.log_textbox.insert*"
+
+__unknown_file (
+
+%7*#
+
+__unknown_file (
+end*?
+
+__unknown_file (#!
+[*] CanlÄ± izleme durduruldu.\nf
+d
+
+Š Š(
+%9"__id*J
+
+__unknown_file (.*,
+ids_linux_gui2.CyberIDSApp"
+
+health_lbl¼
+¹
+
+Š Š(l
+%10"&customtkinter.CTk.health_lbl.configure*"
+
+__unknown_file (
+
+%92?
+text75
+3Linux SensÃ¶r SaÄŸlÄ±ÄŸÄ±: Kusursuz (Tetik Tetikte)2
+
+text_color	
+green*
+3*9
+3
+ids_linux_gui2.py"
+Œ Œ(
+implicit returnB
+ids_linux_gui2.CyberIDSAppH
